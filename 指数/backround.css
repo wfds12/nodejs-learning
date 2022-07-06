@@ -1,0 +1,11 @@
+﻿body {
+    /*background-image: url(image/1.jpg);*/
+    color: #1F10ED;
+    background-color: #B3B2C5;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+    padding: 0px 0px 50px 50px;
+    font-family: YouYuan;
+    height: 1900px;
+}
